@@ -59,7 +59,7 @@ Die genauen Funktionen und Vorteile unterscheiden sich jeweils durch die Art des
 | RAID 6 | Wie RAID 5, aber 2 Platten Verlust tolerierbar | 4 | ja |
 | RAID 10 | Kombination aus Striping und Mirroring | 4 | ja |
 
-![Darstellung Aufbau](./assets/Grafik_NAS-RAID.png)
+![Darstellung Aufbau](../assets/Grafik_NAS-RAID.png)
 
 
 ## Protokolle
